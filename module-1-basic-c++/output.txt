@@ -1,0 +1,4 @@
+10
+A
+12.33 
+My favourite number is: 10
