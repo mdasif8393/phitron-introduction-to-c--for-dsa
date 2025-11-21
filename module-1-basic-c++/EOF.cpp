@@ -1,11 +1,13 @@
-#include<iostream>
+#include <iostream>
 using namespace std;
 
-int main(){
+int main()
+{
 
     int x;
 
-    while(cin >> x){
+    while (cin >> x)
+    {
         cout << x << endl;
     }
 
